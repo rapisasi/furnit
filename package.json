@@ -1,0 +1,25 @@
+{
+  "name": "furnit",
+  "version": "0.0.0",
+  "license": "MIT",
+  "keywords": [
+    "furnit"
+  ],
+  "homepage": "https://rapisasi.com",
+  "bugs": "https://github.com/rapisasi/furnit/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rapisasi/furnit.git"
+  },
+  "author": {
+    "name": "Enji Kusnadi",
+    "email": "me@enji.dev",
+    "url": "https://twitter.com/enjidev"
+  },
+  "funding": [
+    {
+      "type": "individual",
+      "url": "https://www.patreon.com/enjidev"
+    }
+  ]
+}
